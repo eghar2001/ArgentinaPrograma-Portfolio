@@ -1,0 +1,25 @@
+.barra-nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    height:50px;
+}
+body{
+    height: 200vh;
+}
+.banner{
+  
+    max-height:600px;
+}
+.foto-perfil{
+max-width:150px;
+}
+.imagen-educacion{
+    max-width:200px;
+}
+#login-form{
+    width: 100%;
+    height:100%;
+    display:flex;
+    flex-direction:row;
+}
